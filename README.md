@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @vasavi
-- 👀 I’m interested in learning programing and collaborating with my batchmates.
-- 🌱 I’m currently learning javascript,CSS and HTML.
-- 💞️ I’m looking to collaborate on launchcode studio practices.
+- 👋 Hi, I’m LaunchCode Graduate,Full-stack developer.
+- 👀 I'm actively looking for Internship/Job opportunities.
+- 🌱 I’m currently developing web applications as a team using technologies such as Java, Spring Boot, AngularJS and MySQL.
+- 👍🏼I am looking to collaborate on any wed application idea.
+- ✍🏻Funfact:I love drawing and painting.
 - 📫 How to reach me email:vasavi7@outlook.com.
 
 <!---
