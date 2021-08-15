@@ -3,7 +3,7 @@
 - 🌱 I’m currently developing web applications as a team using technologies such as Java, Spring Boot, AngularJS and MySQL.
 - 👍🏼I am looking to collaborate on any wed application idea.
 - ✍🏻Funfact:I love drawing and painting.
-- 📫 How to reach me email:vasavi7@outlook.com.
+- 📫 How to reach me email:vasavi.vadlamudi10@gmail.com
 
 <!---
 vasavi7/vasavi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
